@@ -1,2 +1,2 @@
-# sumeyrasarigull-gmail.com
+
 RFIDTakipSistemi
